@@ -1,0 +1,29 @@
+body {
+   background: white;
+   color:#000;
+}
+.noprint {
+   display: none;
+}
+
+
+.groupsites, .header, .footer, #leftmenu, #menu, .rightNewsEvents, #loginBox {
+   display: none;
+}
+
+
+
+#header h1 span { display: block; }
+#header { margin:0 0 0 0; }
+#header h1 { padding:0; margin:0; color:#000000; }
+#header h1 a {
+background-image:none;
+width:100%;
+height:25px;
+display:block;
+color:#000;
+font-size:35px;
+}
+
+.space20 { height:0px; line-height:1px; font-size:1px; }
+.space10 { height:0px; line-height:1px; font-size:1px; }

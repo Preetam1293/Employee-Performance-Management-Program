@@ -1,0 +1,104 @@
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Junkware Removal Tool (JRT) by Thisisu
+Version: 6.4.1 (12.28.2014:1)
+OS: Windows 7 Ultimate x64
+Ran by sachu on Fri 01/30/2015 at  8:09:58.50
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+
+
+
+~~~ Services
+
+
+
+~~~ Registry Values
+
+Successfully deleted: [Registry Value] HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Toolbar\WebBrowser\\{D4027C7F-154A-4066-A1AD-4243D8127440}
+Successfully repaired: [Registry Value] HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\Main\\Start Page
+Successfully repaired: [Registry Value] HKEY_USERS\.DEFAULT\Software\Microsoft\Internet Explorer\Main\\Start Page
+Successfully repaired: [Registry Value] HKEY_USERS\S-1-5-18\Software\Microsoft\Internet Explorer\Main\\Start Page
+Successfully repaired: [Registry Value] HKEY_USERS\S-1-5-19\Software\Microsoft\Internet Explorer\Main\\Start Page
+Successfully repaired: [Registry Value] HKEY_USERS\S-1-5-20\Software\Microsoft\Internet Explorer\Main\\Start Page
+Successfully repaired: [Registry Value] HKEY_USERS\S-1-5-21-3423477997-3370772018-2770984509-1000\Software\Microsoft\Internet Explorer\Main\\Start Page
+Successfully repaired: [Registry Value] HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\AboutURLs\\Tabs
+
+
+
+~~~ Registry Keys
+
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Tracing\APNSetup_RASAPI32
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Tracing\APNSetup_RASMANCS
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Tracing\apnstub_RASAPI32
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Tracing\apnstub_RASMANCS
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Tracing\apntoolbarinstaller_RASAPI32
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Tracing\apntoolbarinstaller_RASMANCS
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Tracing\AskPartnerCobrandingTool_RASAPI32
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Tracing\AskPartnerCobrandingTool_RASMANCS
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Tracing\AskSLib_RASAPI32
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Tracing\AskSLib_RASMANCS
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Tracing\TaskScheduler_RASAPI32
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Tracing\TaskScheduler_RASMANCS
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Tracing\APNSetup_RASAPI32
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Tracing\APNSetup_RASMANCS
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Tracing\apnstub_RASAPI32
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Tracing\apnstub_RASMANCS
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Tracing\apntoolbarinstaller_RASAPI32
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Tracing\apntoolbarinstaller_RASMANCS
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Tracing\AskPartnerCobrandingTool_RASAPI32
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Tracing\AskPartnerCobrandingTool_RASMANCS
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Tracing\AskSLib_RASAPI32
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Tracing\AskSLib_RASMANCS
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Tracing\TaskScheduler_RASAPI32
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Wow6432Node\Microsoft\Tracing\TaskScheduler_RASMANCS
+Successfully deleted: [Registry Key] HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\SearchScopes\{7F4EFF06-7032-458e-AE16-1C1D8255C28A}
+Successfully deleted: [Registry Key] HKEY_CURRENT_USER\Software\Microsoft\Internet Explorer\SearchScopes\{8977AEFC-AB58-4001-A066-02F8BF3C6004}
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\SearchScopes\{7F4EFF06-7032-458e-AE16-1C1D8255C28A}
+
+
+
+~~~ Files
+
+
+
+~~~ Folders
+
+Successfully deleted: [Folder] C:\ProgramData\C__Users_sachu_AppData_Local_Temp_Rar$EXa0.173_Real.Hide.IP.4.3.0.2.WorldFree4u.Com_Cracked_RealHideIP.exe
+Successfully deleted: [Folder] C:\ProgramData\C__Users_sachu_Desktop_Real.Hide.IP.4.3.0.2.WorldFree4u.Com_Real.Hide.IP.4.3.0.2.WorldFree4u.Com_Cracked_RealHideIP.exe
+Successfully deleted: [Folder] "C:\ProgramData\apn"
+
+
+
+~~~ FireFox
+
+Successfully deleted: [File] C:\Users\sachu\AppData\Roaming\mozilla\firefox\profiles\ol93epx6.default\searchplugins\speedbit.xml
+Successfully deleted the following from C:\Users\sachu\AppData\Roaming\mozilla\firefox\profiles\ol93epx6.default\prefs.js
+
+user_pref("browser.search.defaultenginename", "Speedbit Search");
+user_pref("browser.search.defaulturl", "hxxp://go.speedbit.com/search.aspx?s=F1Raya1&q=");
+user_pref("browser.search.order.1", "Speedbit Search");
+user_pref("browser.search.selectedEngine", "Speedbit Search");
+user_pref("browser.startup.homepage", "hxxp://go.speedbit.com/?s=F1Raya1");
+user_pref("browser.startup.homepage_override_url", "hxxp://go.speedbit.com/?s=F1Raya1");
+user_pref("keyword.URL", "hxxp://go.speedbit.com/search.aspx?s=F1Raya1&q=");
+
+
+
+~~~ Chrome
+
+Successfully deleted: [Folder] C:\Users\sachu\appdata\local\Google\Chrome\User Data\Default\Extensions\fjbbjfdilbioabojmcplalojlmdngbjl
+Successfully deleted: [Folder] C:\Users\sachu\appdata\local\Google\Chrome\User Data\Default\Extensions\jbolfgndggfhhpbnkgnpjkfhinclbigj
+Successfully deleted: [Registry Key] HKEY_LOCAL_MACHINE\Software\Google\Chrome\Extensions\jbolfgndggfhhpbnkgnpjkfhinclbigj
+
+
+
+~~~ Event Viewer Logs were cleared
+
+
+
+
+
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+Scan was completed on Fri 01/30/2015 at  8:13:20.34
+End of JRT log
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
